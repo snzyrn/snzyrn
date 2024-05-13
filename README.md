@@ -2,7 +2,7 @@
 
 
 ## About Me :woman_technologist:
-Hello there! I am a senior computer engineering student at Karadeniz Technical University and I am interested in UI/UX design and front-end development. I share my projects related to these topics on my Github profile and I would like to share them with you as well.
+Hello! I'm a computer engineer interested in UI/UX design and web development. I share my projects related to these topics on my Github profile and I would like to share them with you as well.
 
 My Github profile can help you to gain more information about my projects and showcase my development skills. If you want to share something with me about these topics, please feel free to contact me :full_moon_with_face:
 
